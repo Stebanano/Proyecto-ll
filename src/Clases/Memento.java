@@ -1,5 +1,6 @@
 package Clases;
 
+       //Memento
 public class Memento {
     
     private String miTextoRespaldo;
